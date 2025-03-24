@@ -95,9 +95,3 @@ The app will be available at `http://localhost:8501`.
 3. Kavita Ganesan, ChengXiang Zhai, “Opinion-Based Entity Ranking Using TF-IDF and Cosine Similarity”, IEEE/WIC/ACM International Conference on Web Intelligence, 2012.
 4. Parul Sharma, Sonal Gupta, “Resume Shortlisting System Using Natural Language Processing and Machine Learning”, International Journal of Engineering Research & Technology (IJERT), Volume 8, Issue 6, 2019.
 5. Sonal Singhal, “Modern Information Retrieval: A Brief Overview”, IEEE Data Engineering Bulletin, Volume 24, No. 4, 2001.
-
----
-
-## License
-
-This project is for educational and research purposes only.
