@@ -72,8 +72,6 @@ The app will be available at `http://localhost:8501`.
 
 ```
 ├── resume_ranking.ipynb          # Jupyter notebook version
-├── resume_ranking.py             # Converted Python script
-├── requirements.txt              # Required dependencies
 └── README.md                     # Project documentation
 ```
 
